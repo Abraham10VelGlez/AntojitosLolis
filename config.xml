@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns ="http://www.w3.org/ns/widgets"
+              xmlns:gap ="http://phonegap.com/ns/1.0"
+              id ="com.phonegap.example"
+              version = "5.0-full">
+
+<name> APP DIXDROID</name>
+<icon src= "iconodix.jpg" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="ldpi" />
+
+<gap:splash src="splash.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="splash.png" gap:platform="android" gap:density="xhdpi" />
+
+<description>
+JUEGOS MENTALES PARA LA SALUD DE LOS NIÑOS DISCAPACIDADOS, O CON DISTINTAS CAPACIDADES DIFERENTES.
+CREADO EN LA MATERIA DE VISION EMPRESARIAL:
+ABRAHAM 
+ O_O =)
+</description>
+
+<!--<preference name="permissions" value="none" />-->
+<author href= "http://google.com" email="usbrifa@gmail.com">
+HECHO POR MI KIDMATATANABRAHAM
+</author>
+
+</widget>
